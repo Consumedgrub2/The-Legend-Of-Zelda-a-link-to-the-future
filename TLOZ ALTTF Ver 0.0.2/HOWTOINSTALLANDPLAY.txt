@@ -1,0 +1,14 @@
+Installing and playing is quite easy.
+
+Steps:
+
+1. Do you have Solarus installed? If not go to: https://solarus-games.org/en/solarus/download and download the "For players" option.
+
+2. Great, if you have solarus installed already, good for you. Now go to the folder that "Solarus-Launcher" is located in.
+
+3. Launch the Solarus launcher.
+
+4. In this folder is a file with the extension ".solarus", drag that into the solarus launcher window or click add quest, and select the
+only other file in this folder.
+
+5. Now you can play the game. That was easy.
