@@ -14,4 +14,8 @@ Step by step pictures:
 
 ![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown1.png)
 
-![alt text](http://url/to/img.png)
+In the picture below, just click on the link with the little box icon beside it to download the release. Do not worry about the source code, as you do not need it to run the game. If you would like to mod the game, then the source code is for you. More about modding [here.] ()
+
+![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown2.png)
+
+---------------------------------------
