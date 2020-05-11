@@ -12,15 +12,3 @@ When Downloading the launcher, choose this option:
 ![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown.png)
 
 ----------------------------------------
-After you've installed the Solarus Launcher, to download the game, navigate to the "releases" tab in this repository and download the latest release.
-
-----------------------------------------
-Step by step pictures:
-
-![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown1.png)
-
-In the picture below, just click on the link with the little box icon beside it to download the release. Do not worry about the source code, as you do not need it to run the game.
-
-![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown2.png)
-
----------------------------------------
