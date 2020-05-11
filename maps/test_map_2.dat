@@ -1,0 +1,182 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 700,
+  height = 700,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "dungeon/blue",
+  music = "light_world_dungeon",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 96,
+  width = 256,
+  height = 176,
+  pattern = "floor.12-1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 96,
+  width = 8,
+  height = 176,
+  pattern = "wall_border.3-2",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 96,
+  width = 8,
+  height = 176,
+  pattern = "wall_border.4-2",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 88,
+  width = 256,
+  height = 8,
+  pattern = "wall_border.1-2",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 272,
+  width = 256,
+  height = 8,
+  pattern = "wall_border.2-2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "wall_border.corner.3-2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "wall_border.corner.1-2",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "wall_border.corner.2-2",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "wall_border.corner.4-2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 64,
+  width = 24,
+  height = 24,
+  pattern = "wall.corner.1-2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 64,
+  width = 24,
+  height = 24,
+  pattern = "wall.corner.2-2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 280,
+  width = 24,
+  height = 24,
+  pattern = "wall.corner.4-2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 280,
+  width = 24,
+  height = 24,
+  pattern = "wall.corner.3-2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 88,
+  width = 24,
+  height = 192,
+  pattern = "wall.3-2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 280,
+  width = 272,
+  height = 24,
+  pattern = "wall.2-2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 64,
+  width = 272,
+  height = 24,
+  pattern = "wall.1-2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 88,
+  width = 24,
+  height = 192,
+  pattern = "wall.4-2",
+}
+
+destination{
+  name = "starting_destination_test_room_2",
+  layer = 0,
+  x = 272,
+  y = 261,
+  direction = 3,
+}
+
+enemy{
+  name = "mothboss_test",
+  layer = 0,
+  x = 480,
+  y = 125,
+  direction = 3,
+  breed = "bosses/mothula",
+  treasure_name = "consumables/heart_container",
+}
+
