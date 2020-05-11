@@ -1,0 +1,25 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "TLOZ-ALTTF",
+  title = "The Legend Of Zelda: A Link to the Future",
+  short_description = "Join Link on and epic journey to the future!",
+  long_description = [[
+There once was a legend, that boast's of gold and riches. One day, a clan that went by the name "Fero" decided to find the place that this legend spoke of. Little did they know that many others
+were after it as well. This resulted in  a war that went on for years. Years and years passed and with some hope, the war eventually finished. Every side was distracted with fighting each other, when the portal to this "future land
+with gold and riches" closed. However one man
+and his clan were able to get through. IT WAS THE FERO! At last with the Fero in this so called "Future Land", the leader began to send his henchman through cracks in time to terrorize, hyrule and find a princess named "ZELDA". 
+But, no time passed and zelda was immediately captured! This villan then sealed the cracks of time, and no one since
+has been able to get into this "Future" land. The portal is said to be located in a deep underground temple, somewhere in hyrule. But many have tried to reach the portal, however many have lost their lives doing so...
+
+Which brings us to today.
+You hear a faint voice: "Link.......Link..."
+]],
+  author = "Consumedgrub2",
+  quest_version = "0.2.6",
+  release_date = "",
+  website = "https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
