@@ -1,6 +1,11 @@
 # The Legend Of Zelda: A link to the future
 Here you can download the game: The legend of zelda: A link to the future. [NOTE]: This game requires the Solarus Game launcher to play the game. You can get that here: https://solarus-games.org/en/solarus/download.
 
+Currently the demo is the latest version.
+
+Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/releases/download/0.2.6/TLOZ.ALTTF.Ver.0.2.6.zip">link Demo Version</a>
+
+
 ---------------------------------------
 When Downloading the launcher, choose this option:
 
