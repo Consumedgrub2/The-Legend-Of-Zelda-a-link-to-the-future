@@ -7,7 +7,7 @@ Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-t
 
 
 ---------------------------------------
-When Downloading the launcher, choose this option:
+When Downloading the Solarus launcher, choose this option:
 
 ![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown.png)
 
