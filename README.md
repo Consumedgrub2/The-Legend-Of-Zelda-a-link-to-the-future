@@ -13,6 +13,12 @@ Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-t
 
 ---------------------------------------
 
+Helpful Links for bug reports and info:
+
+Discord: <a href="https://discord.gg/jfB9JTQ">Demo Version</a>
+
+---------------------------------------
+
 <h2>Source code</h2>
 
 If you want to view the source code of this game, Click the
