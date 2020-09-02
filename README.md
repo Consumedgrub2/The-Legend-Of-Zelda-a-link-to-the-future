@@ -7,7 +7,7 @@ Here you can download the game: The legend of zelda: A link to the future. [NOTE
 
 <h2>Downloads</h2>
 
-Currently the demo is the latest version.
+Currently the demo is the latest version. Supports Windows 7, 8.1, 10, Mac OS 13.0+ and Ubuntu 20.04.
 
 Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/releases/download/0.2.6/TLOZ.ALTTF.Ver.0.2.6.zip">Demo Version</a>
 
