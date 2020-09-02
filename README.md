@@ -13,7 +13,7 @@ Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-t
 
 ---------------------------------------
 
-Wanna support the project? Buy me a coffee!
+Wanna support the project?
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E624Q3L)
 
