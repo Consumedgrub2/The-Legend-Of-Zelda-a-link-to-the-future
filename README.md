@@ -13,6 +13,12 @@ Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-t
 
 ---------------------------------------
 
+Wanna support the project? Buy me a coffee!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E624Q3L)
+
+---------------------------------------
+
 Helpful Links for bug reports and info:
 
 Link 1: <a href="https://discord.gg/jfB9JTQ">Discord</a>
