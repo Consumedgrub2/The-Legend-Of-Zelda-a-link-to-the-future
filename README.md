@@ -12,19 +12,6 @@ Currently the demo is the latest version. Supports Windows 7, 8.1, 10, Mac OS 13
 Download: <a href="https://github.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/releases/download/0.2.6/TLOZ.ALTTF.Ver.0.2.6.zip">Demo Version</a>
 
 ---------------------------------------
-
-Helpful Links for bug reports and info:
-
-Link 1: <a href="https://discord.gg/dH8gVAr4fM">Discord</a>
-
----------------------------------------
-
-<h2>Source code</h2>
-
-If you want to view the source code of this game, Click the
-"View on github" button on the top right of the webpage.
-
----------------------------------------
 When Downloading the Solarus launcher, choose this option:
 
 ![alt text](https://raw.githubusercontent.com/Consumedgrub3/The-Legend-Of-Zelda-a-link-to-the-future/Files-For-repository/unknown.png)
